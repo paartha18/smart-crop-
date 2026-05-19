@@ -1,0 +1,5 @@
+{
+  "name": "SmartCrop AI",
+  "description": "An AI-powered crop recommendation and agricultural decision support system for farmers.",
+  "requestFramePermissions": ["geolocation"]
+}
